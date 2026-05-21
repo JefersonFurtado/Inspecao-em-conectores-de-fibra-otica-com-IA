@@ -2,7 +2,7 @@
 
 Ferramenta em Python para **inspeção visual automatizada** de superfícies. Compara uma imagem de referência limpa com uma imagem analisada e identifica automaticamente sujeira, riscos e resíduos, contornando cada defeito encontrado.
 
-![Exemplo de resultado](resultado_deteccao.png)
+![Exemplo de resultado](resultado.png)
 
 ---
 
